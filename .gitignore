@@ -3,4 +3,8 @@
 /.vscode
 __pycache__
 db.sqlite3
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> fe8c3b6542339d415e4380dd8c339f61a89162cd
